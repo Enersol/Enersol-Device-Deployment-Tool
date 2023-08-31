@@ -1,0 +1,7 @@
+C:\Users\jmarini\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\Enersol Firmware Update Tool.vcxproj.AssemblyReference.cache
+C:\Users\jmarini\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\Enersol Firmware Update Tool.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jmarini\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\EnersolFirmwareUpdateTool.MainForm.resources
+C:\Users\jmarini\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\Enersol Firmware Update Tool.vcxproj.GenerateResource.cache
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\Enersol Firmware Update Tool.vcxproj.AssemblyReference.cache
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\EnersolFirmwareUpdateTool.MainForm.resources
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol Firmware Update Tool\Enersol Firmware Update Tool\x64\Release\Enersol Firmware Update Tool.vcxproj.GenerateResource.cache
