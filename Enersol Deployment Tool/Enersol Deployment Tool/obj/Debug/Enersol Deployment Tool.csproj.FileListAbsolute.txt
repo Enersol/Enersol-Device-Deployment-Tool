@@ -1,0 +1,11 @@
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\bin\Debug\Enersol Deployment Tool.exe.config
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\bin\Debug\Enersol Deployment Tool.exe
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\bin\Debug\Enersol Deployment Tool.pdb
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.csproj.AssemblyReference.cache
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol_Deployment_Tool.Form1.resources
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol_Deployment_Tool.Properties.Resources.resources
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.csproj.GenerateResource.cache
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.csproj.CoreCompileInputs.cache
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.exe
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.pdb
+C:\Users\jmari\OneDrive\Desktop\Enersol Code\Enersol-Device-Deployment-Tool\Enersol Deployment Tool\Enersol Deployment Tool\obj\Debug\Enersol Deployment Tool.csproj.ResolveComReference.cache
